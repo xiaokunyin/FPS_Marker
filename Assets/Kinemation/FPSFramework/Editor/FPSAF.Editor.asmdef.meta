@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86fb03b7f8075ba48a23c50658463310
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238641
+  packageName: FPS Animation Framework
+  packageVersion: 3.5.2
+  assetPath: Assets/Kinemation/FPSFramework/Editor/FPSAF.Editor.asmdef
+  uploadId: 641489
